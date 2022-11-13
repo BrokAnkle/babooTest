@@ -602,6 +602,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     1: 
     4: 
+    7: 
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
